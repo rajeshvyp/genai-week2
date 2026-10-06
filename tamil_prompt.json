@@ -1,0 +1,71 @@
+Create an image with below json prompt
+
+Image1 :
+
+{
+ "subject": "A Tamil family celebrating Pongal together in a traditional village courtyard",
+
+ "setting": {
+ "place": "A rural village near Thanjavur, Tamil Nadu",
+ "era": "20th century Tamil Nadu",
+ "time_of_day": "early morning"
+ },
+
+ "lighting": "Soft natural early morning sunlight",
+
+ "camera": {
+ "shot": "wide shot",
+ "lens": "35mm",
+ "angle": "eye level"
+ },
+
+ "palette": [
+ "earthy brown",
+ "terracotta",
+ "mustard yellow",
+ "deep green",
+ "off-white"
+ ],
+
+ "style": "Photorealistic cinematic documentary photography with authentic 20th century Tamil village details",
+
+ "aspect_ratio": "16:9",
+
+ "avoid": [
+ "modern buildings",
+ "modern vehicles",
+ "modern kitchen appliances",
+ "plastic decorations",
+ "western clothing",
+ "generic Indian stereotypes",
+ "modern festival decorations",
+ "fantasy elements",
+ "incorrect Tamil architecture"
+ ]
+}
+
+Image2 :
+ "setting": {
+ "place": "A rural village near Thanjavur, Tamil Nadu",
+ "era": "20th century Tamil Nadu",
+ "time_of_day": "golden hour"
+ },
+
+
+Image3 :
+ "camera": {
+ "shot": "close-up",
+ "lens": "35mm",
+ "angle": "eye level"
+ },
+
+
+
+Added video Generation  :
+
+"motion": {
+ "subject_motion": "Family members gently preparing Pongal, steam rising from the traditional Pongal pot, sugarcane leaves moving naturally in the breeze",
+ "camera_move": "Slow cinematic push in",
+  "duration_seconds": 10
+  "audio :"tamil"
+  }
